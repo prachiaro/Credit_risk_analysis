@@ -34,7 +34,7 @@ A data analytics project that analyzes customer credit risk using **Python, SQL,
 
 
 
-## 💡 Key Insights
+## Key Insights
 
 - Higher interest rates are associated with increased loan default risk.
 - Lower loan grades have higher default rates.
@@ -43,7 +43,7 @@ A data analytics project that analyzes customer credit risk using **Python, SQL,
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
